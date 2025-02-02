@@ -1,0 +1,38 @@
+{
+  "name": "lesson-2",
+  "version": "1.0.0",
+  "description": "This is react learning lesson 2",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "publish": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIhalrokzz/namasterDev-React.git"
+  },
+  "keywords": [
+    "react",
+    "learning-react"
+  ],
+  "author": "Nihal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NIhalrokzz/namasterDev-React/issues"
+  },
+  "homepage": "https://github.com/NIhalrokzz/namasterDev-React#readme",
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "Last 3 version"
+  ]
+}
